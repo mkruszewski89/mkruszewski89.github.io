@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Always Learning
 header-img: img/home-bg.png
 email: mdkruszewski@gmail.com
 copyright_name: mkruszewski89
 description: > # this means to ignore newlines until "baseurl:"
-  
+  coming soon
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mkruszewski89
